@@ -1,4 +1,5 @@
-pickle
-streamlit 
-spotipy   
-spotipy.oauth2
+streamlit==1.24.1
+spotipy==2.23.0
+numpy==1.25.0
+pandas==2.0.0
+scikit-learn==1.3.0
