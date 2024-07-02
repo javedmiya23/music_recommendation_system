@@ -1,0 +1,1 @@
+spotify data set -> 4 col -> text col data clean -> convert col to token (i.e , programming) -> known as vector

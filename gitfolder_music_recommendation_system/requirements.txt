@@ -1,0 +1,4 @@
+pickle
+streamlit 
+spotipy   
+spotipy.oauth2
